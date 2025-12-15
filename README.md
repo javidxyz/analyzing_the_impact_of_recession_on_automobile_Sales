@@ -1,6 +1,6 @@
 # Analyzing the Impact of Recession on Automobile Sales
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes how economic recessions impact automobile sales using historical data and exploratory data analysis. By combining automobile sales data with macroeconomic indicators, the study highlights trends, patterns, and differences in sales behavior during recession and non-recession periods.
 
@@ -8,7 +8,7 @@ The goal is to understand **how sensitive the automobile industry is to economic
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze automobile sales trends over time
 * Compare sales performance during recession vs non-recession periods
@@ -17,7 +17,7 @@ The goal is to understand **how sensitive the automobile industry is to economic
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The project uses:
 
@@ -29,7 +29,7 @@ The project uses:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Python**
 * **Pandas** – data manipulation
@@ -39,7 +39,7 @@ The project uses:
 
 ---
 
-## 📈 Key Analysis Performed
+##  Key Analysis Performed
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis (EDA)
@@ -50,7 +50,7 @@ The project uses:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * Automobile sales show a **clear decline during recession periods**
 * Higher unemployment and lower GDP growth correlate with reduced sales
@@ -58,7 +58,7 @@ The project uses:
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 
@@ -74,7 +74,7 @@ The project uses:
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Data is aggregated and may not reflect regional or brand-specific behavior
 * External factors like pandemics may distort recession patterns
@@ -82,7 +82,7 @@ The project uses:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add predictive models to forecast sales during recessions
 * Perform country-specific or segment-wise analysis

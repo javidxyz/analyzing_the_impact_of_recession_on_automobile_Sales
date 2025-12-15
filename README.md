@@ -90,7 +90,7 @@ The project uses:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how economic downturns significantly affect automobile sales and shows the importance of macroeconomic stability for the automotive industry. It provides a solid foundation for further predictive and policy-driven analysis.
 
